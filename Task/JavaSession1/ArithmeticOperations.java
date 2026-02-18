@@ -1,3 +1,4 @@
+package JavaSession1;
 import java.util.Scanner;
 public class ArithmeticOperations {
     public static void main (String[] args) {
@@ -12,7 +13,7 @@ public class ArithmeticOperations {
         System.out.println("Division: " + div(a, b));
         System.out.println("Modulo: " + mod(a, b));
     }
-     static int add ( int a, int b){
+    static int add ( int a, int b){
         return a + b;
     }
     static int sub ( int a, int b){
