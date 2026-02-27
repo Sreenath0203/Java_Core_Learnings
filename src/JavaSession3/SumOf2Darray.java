@@ -21,6 +21,5 @@ public class SumOf2Darray {
             }
         }
         System.out.println("Sum of elements in 2D array: " + sum);
-        sc.close();
     }
 }
