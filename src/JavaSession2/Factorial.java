@@ -11,4 +11,4 @@ class Factorial {
         }
         System.out.println("Factorial:" + f);
     }
-}5
+}
