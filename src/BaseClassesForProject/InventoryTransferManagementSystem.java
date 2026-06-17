@@ -256,7 +256,4 @@ class user{
 
     public class InventoryTransferManagementSystem {
 
-
-
-
 }
